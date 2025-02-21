@@ -1,0 +1,26 @@
+{
+    "data": {
+        "date": {
+            "created_at": "2025-02-21",
+            "updated_at": "2025-02-21"
+        },
+        "descriptions": {
+            "app_name": "JiraStream",
+            "app_description": "JiraStream listens for changes in a Jira project and sends real-time updates to a Telex channel.",
+            "app_logo": "https://7d2e-197-211-59-72.ngrok-free.app/assets/logo.jpg",
+            "app_url": "https://7d2e-197-211-59-72.ngrok-free.app",
+            "background_color": "#fff"
+        },
+        "is_active": true,
+        "integration_type": "modifier",
+        "integration_category": "Project Management",
+        "key_features": [
+            "Real-time Jira issue tracking",
+            "Sends updates directly to Telex channels",
+            "Supports issue creation and updates",
+            "Customizable settings for filtering events"
+        ],
+        "author": "dev L0N3LY",
+        "target_url": "https://7d2e-197-211-59-72.ngrok-free.app/api/v1/webhooks/"
+    }
+}
