@@ -7,8 +7,8 @@
         "descriptions": {
             "app_name": "JiraStream",
             "app_description": "JiraStream listens for changes in a Jira project and sends real-time updates to a Telex channel.",
-            "app_logo": "https://7d2e-197-211-59-72.ngrok-free.app/assets/logo.jpg",
-            "app_url": "https://7d2e-197-211-59-72.ngrok-free.app",
+            "app_logo": "http://20.127.173.38/assets/logo.jpg",
+            "app_url": "http://20.127.173.38",
             "background_color": "#fff"
         },
         "is_active": true,
@@ -21,6 +21,9 @@
             "Customizable settings for filtering events"
         ],
         "author": "dev L0N3LY",
-        "target_url": "https://7d2e-197-211-59-72.ngrok-free.app/api/v1/webhooks/"
+        "settings": [
+            
+        ],
+        "target_url": "http://20.127.173.38/api/v1/webhooks/"
     }
 }
