@@ -7,8 +7,8 @@
         "descriptions": {
             "app_name": "JiraStream",
             "app_description": "JiraStream listens for changes in a Jira project and sends real-time updates to a Telex channel.",
-            "app_logo": "http://20.127.173.38/assets/logo.jpg",
-            "app_url": "http://20.127.173.38",
+            "app_logo": "https://jirastream.onrender.com/assets/logo.jpg",
+            "app_url": "https://jirastream.onrender.com",
             "background_color": "#fff"
         },
         "is_active": true,
@@ -24,6 +24,6 @@
         "settings": [
             
         ],
-        "target_url": "http://20.127.173.38/api/v1/webhooks/"
+        "target_url": "https://jirastream.onrender.com/"
     }
 }
